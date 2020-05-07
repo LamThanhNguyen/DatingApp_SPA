@@ -1,0 +1,19 @@
+.btn-calendar {
+    display: inline;
+    background-color: DodgerBlue;
+    border: none;
+    color: #ffffff;
+    padding: 6px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btn-calendar:hover {
+    background-color: RoyalBlue;
+    display: inline;
+    border: none;
+    color: #ffffff;
+    padding: 6px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
